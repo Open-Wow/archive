@@ -1,0 +1,26 @@
+Script d’un mini boss de niveau 15
+
+Nom : Stone
+Faction : Défias (17)
+Niveau : 15
+Point de vie : environ 700
+Equipement : Epée 1 main et bouclier
+
+Sort :
+- Charge
+- Etourdissement ( 5 secondes )
+- Pourfendre
+- Coup de tonnerre
+- Brise genou
+- Mur protecteur
+
+Objet :
+- Potion inférieure
+
+Stratégie :
+
+- Au début du combat, si le joueur est à portée, alors le boss utilise [Charge]
+- Tout le long du combat il enchaîne les attaques : [Pourfendre], [Coup de tonnerre] et [Attaque à l'épée].
+- Lorsque la cible passe en dessous des 30% de points de vie, le boss lui applique [Brise genou] l'empêchant de s'enfuir. ( 1 seule fois par cible )
+- Lorsque le boss passe en dessous des 40% de points de vie, le boss lance [Etourdissement ( 5 secondes )] sur la cible, et se soigne avec l'objet [Potion inférieure]. ( 1 seule fois )
+- Lorsque le boss passe en dessous des 20% de points de vie il utilise son sort défensif [Mur protecteur]. 

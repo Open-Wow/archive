@@ -1,0 +1,6 @@
+Bonjour,
+
+Le sort "Eclat Lunaire" de mon druide ne fonctionne pas. Je choppe bien l'aggro de la créature mais le dot n'est pas appliqué. De même, le cout en mana n'est pas débité.
+
+Bien cordialement,
+un joueur
